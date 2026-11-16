@@ -1,0 +1,22 @@
+# Credential
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Data asli (berisi identitas penyewa, jangan di-upload)
+data/raw/*.xlsx
+backups/
+*.dump
+*.log
+
+# Docker volume lokal
+pgdata/
+minio_data/
+
+# Sistem
+.DS_Store
+Thumbs.db
