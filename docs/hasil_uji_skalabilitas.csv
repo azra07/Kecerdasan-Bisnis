@@ -1,0 +1,5 @@
+Pengujian,Jumlah Baris Output,Latensi (ms),Status
+Q1: Agregasi Mart Finansial Bulanan,90,15.32,Passed (< 100 ms)
+Q2: Agregasi 46.000+ Baris Mart Okupansi,366,11.37,Passed (< 100 ms)
+Q3: Join Fakta Transaksi + Dim Kamar + Dim Waktu,312,3.5,Passed (< 100 ms)
+Q4: Prediksi ML vs Realisasi,545,2.0,Passed (< 100 ms)
