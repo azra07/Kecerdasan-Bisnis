@@ -1,0 +1,243 @@
+tanggal_mulai,tanggal_selesai,nama_event,kategori_akademik
+2019-01-10,2019-02-05,Libur Semester Ganjil & Pengisian KRS Genap 2019,Libur Semester
+2019-05-15,2019-05-20,Periode Wisuda Kampus Periode Genap 2019,Wisuda
+2019-07-01,2019-08-10,Libur Panjang Akhir Tahun Ajaran 2019,Libur Semester
+2019-08-15,2019-09-05,Penerimaan Mahasiswa Baru & Awal Semester Ganjil TA 2019/2020,Penerimaan Mahasiswa Baru
+2019-10-20,2019-10-25,Periode Wisuda Kampus Periode Ganjil 2019,Wisuda
+2020-01-10,2020-02-05,Libur Semester Ganjil & Pengisian KRS Genap 2020,Libur Semester
+2020-05-15,2020-05-20,Periode Wisuda Kampus Periode Genap 2020,Wisuda
+2020-07-01,2020-08-10,Libur Panjang Akhir Tahun Ajaran 2020,Libur Semester
+2020-08-15,2020-09-05,Penerimaan Mahasiswa Baru & Awal Semester Ganjil TA 2020/2021,Penerimaan Mahasiswa Baru
+2020-10-20,2020-10-25,Periode Wisuda Kampus Periode Ganjil 2020,Wisuda
+2021-01-01,2021-01-02,Hari Tahun Baru,Event Akademik Umum
+2021-01-10,2021-02-05,Libur Semester Ganjil & Pengisian KRS Genap 2021,Libur Semester
+2021-02-12,2021-02-13,Tahun Baru Imlek,Event Akademik Umum
+2021-03-11,2021-03-12,Isra Mikraj Nabi Muhammad,Event Akademik Umum
+2021-03-12,2021-03-13,Cuti Bersama,Event Akademik Umum
+2021-03-14,2021-03-15,Hari Suci Nyepi (Tahun Baru Saka),Event Akademik Umum
+2021-04-02,2021-04-03,Wafat Isa Almasih,Event Akademik Umum
+2021-04-04,2021-04-05,Hari Paskah,Event Akademik Umum
+2021-05-01,2021-05-02,Hari Buruh Internasional / Pekerja,Event Akademik Umum
+2021-05-12,2021-05-13,Cuti Bersama Idul Fitri,Event Akademik Umum
+2021-05-13,2021-05-14,Kenaikan Isa Al Masih,Event Akademik Umum
+2021-05-13,2021-05-14,Hari Idul Fitri,Event Akademik Umum
+2021-05-14,2021-05-15,Hari Idul Fitri,Event Akademik Umum
+2021-05-15,2021-05-20,Periode Wisuda Kampus Periode Genap 2021,Wisuda
+2021-05-17,2021-05-18,Cuti Bersama Idul Fitri,Event Akademik Umum
+2021-05-18,2021-05-19,Cuti Bersama Idul Fitri,Event Akademik Umum
+2021-05-19,2021-05-20,Cuti Bersama Idul Fitri,Event Akademik Umum
+2021-05-26,2021-05-27,Hari Raya Waisak,Event Akademik Umum
+2021-06-01,2021-06-02,Hari Lahir Pancasila,Event Akademik Umum
+2021-07-01,2021-08-10,Libur Panjang Akhir Tahun Ajaran 2021,Libur Semester
+2021-07-20,2021-07-21,Idul Adha (Lebaran Haji),Event Akademik Umum
+2021-08-10,2021-08-11,Satu Muharam / Tahun Baru Hijriah,Event Akademik Umum
+2021-08-11,2021-08-12,Satu Muharam / Tahun Baru Hijriah,Event Akademik Umum
+2021-08-15,2021-09-05,Penerimaan Mahasiswa Baru & Awal Semester Ganjil TA 2021/2022,Penerimaan Mahasiswa Baru
+2021-08-17,2021-08-18,Hari Proklamasi Kemerdekaan R.I.,Event Akademik Umum
+2021-10-19,2021-10-20,Maulid Nabi Muhammad,Event Akademik Umum
+2021-10-20,2021-10-21,Maulid Nabi Muhammad,Event Akademik Umum
+2021-10-20,2021-10-25,Periode Wisuda Kampus Periode Ganjil 2021,Wisuda
+2021-11-04,2021-11-05,Diwali,Event Akademik Umum
+2021-12-24,2021-12-25,Malam Natal,Event Akademik Umum
+2021-12-25,2021-12-26,Hari Raya Natal,Event Akademik Umum
+2021-12-27,2021-12-28,Cuti Bersama Natal (Hari Tinju),Event Akademik Umum
+2021-12-31,2022-01-01,Malam Tahun Baru,Event Akademik Umum
+2022-01-01,2022-01-02,Hari Tahun Baru,Event Akademik Umum
+2022-01-10,2022-02-05,Libur Semester Ganjil & Pengisian KRS Genap 2022,Libur Semester
+2022-02-01,2022-02-02,Tahun Baru Imlek,Event Akademik Umum
+2022-02-28,2022-03-01,Isra Mikraj Nabi Muhammad,Event Akademik Umum
+2022-03-03,2022-03-04,Hari Suci Nyepi (Tahun Baru Saka),Event Akademik Umum
+2022-04-15,2022-04-16,Wafat Isa Almasih,Event Akademik Umum
+2022-04-17,2022-04-18,Hari Paskah,Event Akademik Umum
+2022-04-29,2022-04-30,Cuti Bersama Idul Fitri,Event Akademik Umum
+2022-05-01,2022-05-02,Hari Buruh Internasional / Pekerja,Event Akademik Umum
+2022-05-02,2022-05-03,Hari Idul Fitri,Event Akademik Umum
+2022-05-03,2022-05-04,Hari Idul Fitri,Event Akademik Umum
+2022-05-04,2022-05-05,Cuti Bersama Idul Fitri,Event Akademik Umum
+2022-05-05,2022-05-06,Cuti Bersama Idul Fitri,Event Akademik Umum
+2022-05-06,2022-05-07,Cuti Bersama Idul Fitri,Event Akademik Umum
+2022-05-15,2022-05-20,Periode Wisuda Kampus Periode Genap 2022,Wisuda
+2022-05-16,2022-05-17,Hari Raya Waisak,Event Akademik Umum
+2022-05-26,2022-05-27,Kenaikan Isa Al Masih,Event Akademik Umum
+2022-06-01,2022-06-02,Hari Lahir Pancasila,Event Akademik Umum
+2022-07-01,2022-08-10,Libur Panjang Akhir Tahun Ajaran 2022,Libur Semester
+2022-07-10,2022-07-11,Idul Adha (Lebaran Haji),Event Akademik Umum
+2022-07-30,2022-07-31,Satu Muharam / Tahun Baru Hijriah,Event Akademik Umum
+2022-08-15,2022-09-05,Penerimaan Mahasiswa Baru & Awal Semester Ganjil TA 2022/2023,Penerimaan Mahasiswa Baru
+2022-08-17,2022-08-18,Hari Proklamasi Kemerdekaan R.I.,Event Akademik Umum
+2022-10-08,2022-10-09,Maulid Nabi Muhammad,Event Akademik Umum
+2022-10-20,2022-10-25,Periode Wisuda Kampus Periode Ganjil 2022,Wisuda
+2022-10-24,2022-10-25,Diwali,Event Akademik Umum
+2022-12-24,2022-12-25,Malam Natal,Event Akademik Umum
+2022-12-25,2022-12-26,Hari Raya Natal,Event Akademik Umum
+2022-12-26,2022-12-27,Cuti Bersama Natal (Hari Tinju),Event Akademik Umum
+2022-12-31,2023-01-01,Malam Tahun Baru,Event Akademik Umum
+2023-01-01,2023-01-02,Hari Tahun Baru,Event Akademik Umum
+2023-01-10,2023-02-05,Libur Semester Ganjil & Pengisian KRS Genap 2023,Libur Semester
+2023-01-22,2023-01-23,Tahun Baru Imlek,Event Akademik Umum
+2023-01-23,2023-01-24,Cuti Bersama Tahun Baru Imlek,Event Akademik Umum
+2023-02-18,2023-02-19,Isra Mikraj Nabi Muhammad,Event Akademik Umum
+2023-03-22,2023-03-23,Hari Suci Nyepi (Tahun Baru Saka),Event Akademik Umum
+2023-03-23,2023-03-24,Cuti Bersama Hari Suci Nyepi (Tahun Baru Saka),Event Akademik Umum
+2023-03-23,2023-03-24,1 Ramadan,Event Akademik Umum
+2023-04-07,2023-04-08,Wafat Isa Almasih,Event Akademik Umum
+2023-04-09,2023-04-10,Hari Paskah,Event Akademik Umum
+2023-04-19,2023-04-20,Cuti Bersama Idul Fitri,Event Akademik Umum
+2023-04-20,2023-04-21,Cuti Bersama Idul Fitri,Event Akademik Umum
+2023-04-21,2023-04-22,Cuti Bersama Idul Fitri,Event Akademik Umum
+2023-04-22,2023-04-23,Hari Idul Fitri,Event Akademik Umum
+2023-04-23,2023-04-24,Hari Idul Fitri,Event Akademik Umum
+2023-04-24,2023-04-25,Cuti Bersama Idul Fitri,Event Akademik Umum
+2023-04-25,2023-04-26,Cuti Bersama Idul Fitri,Event Akademik Umum
+2023-05-01,2023-05-02,Hari Buruh Internasional / Pekerja,Event Akademik Umum
+2023-05-15,2023-05-20,Periode Wisuda Kampus Periode Genap 2023,Wisuda
+2023-05-18,2023-05-19,Kenaikan Isa Al Masih,Event Akademik Umum
+2023-06-01,2023-06-02,Hari Lahir Pancasila,Event Akademik Umum
+2023-06-02,2023-06-03,Cuti Bersama Waisak,Event Akademik Umum
+2023-06-04,2023-06-05,Hari Raya Waisak,Event Akademik Umum
+2023-06-29,2023-06-30,Idul Adha (Lebaran Haji),Event Akademik Umum
+2023-07-01,2023-08-10,Libur Panjang Akhir Tahun Ajaran 2023,Libur Semester
+2023-07-19,2023-07-20,Satu Muharam / Tahun Baru Hijriah,Event Akademik Umum
+2023-08-15,2023-09-05,Penerimaan Mahasiswa Baru & Awal Semester Ganjil TA 2023/2024,Penerimaan Mahasiswa Baru
+2023-08-17,2023-08-18,Hari Proklamasi Kemerdekaan R.I.,Event Akademik Umum
+2023-09-28,2023-09-29,Maulid Nabi Muhammad,Event Akademik Umum
+2023-10-20,2023-10-25,Periode Wisuda Kampus Periode Ganjil 2023,Wisuda
+2023-11-12,2023-11-13,Diwali,Event Akademik Umum
+2023-12-24,2023-12-25,Malam Natal,Event Akademik Umum
+2023-12-25,2023-12-26,Hari Raya Natal,Event Akademik Umum
+2023-12-26,2023-12-27,Cuti Bersama Natal (Hari Tinju),Event Akademik Umum
+2023-12-31,2024-01-01,Malam Tahun Baru,Event Akademik Umum
+2024-01-01,2024-01-02,Hari Tahun Baru,Event Akademik Umum
+2024-01-10,2024-02-05,Libur Semester Ganjil & Pengisian KRS Genap 2024,Libur Semester
+2024-02-08,2024-02-09,Isra Mikraj Nabi Muhammad,Event Akademik Umum
+2024-02-09,2024-02-10,Cuti Bersama Tahun Baru Imlek,Event Akademik Umum
+2024-02-10,2024-02-11,Tahun Baru Imlek,Event Akademik Umum
+2024-02-14,2024-02-15,Hari Pemilihan,Event Akademik Umum
+2024-03-11,2024-03-12,Hari Suci Nyepi (Tahun Baru Saka),Event Akademik Umum
+2024-03-12,2024-03-13,1 Ramadan,Event Akademik Umum
+2024-03-12,2024-03-13,Cuti Bersama Hari Suci Nyepi (Tahun Baru Saka),Event Akademik Umum
+2024-03-29,2024-03-30,Wafat Isa Almasih,Event Akademik Umum
+2024-03-31,2024-04-01,Hari Paskah,Event Akademik Umum
+2024-04-08,2024-04-09,Cuti Bersama Idul Fitri,Event Akademik Umum
+2024-04-09,2024-04-10,Cuti Bersama Idul Fitri,Event Akademik Umum
+2024-04-10,2024-04-11,Hari Idul Fitri,Event Akademik Umum
+2024-04-11,2024-04-12,Hari Idul Fitri,Event Akademik Umum
+2024-04-12,2024-04-13,Cuti Bersama Idul Fitri,Event Akademik Umum
+2024-04-15,2024-04-16,Cuti Bersama Idul Fitri,Event Akademik Umum
+2024-05-01,2024-05-02,Hari Buruh Internasional / Pekerja,Event Akademik Umum
+2024-05-09,2024-05-10,Kenaikan Isa Al Masih,Event Akademik Umum
+2024-05-10,2024-05-11,Cuti Bersama Kenaikan Isa Al Masih,Event Akademik Umum
+2024-05-15,2024-05-20,Periode Wisuda Kampus Periode Genap 2024,Wisuda
+2024-05-23,2024-05-24,Hari Raya Waisak,Event Akademik Umum
+2024-05-24,2024-05-25,Cuti Bersama Waisak,Event Akademik Umum
+2024-06-01,2024-06-02,Hari Lahir Pancasila,Event Akademik Umum
+2024-06-17,2024-06-18,Idul Adha (Lebaran Haji),Event Akademik Umum
+2024-06-18,2024-06-19,Idul Adha (Lebaran Haji),Event Akademik Umum
+2024-07-01,2024-08-10,Libur Panjang Akhir Tahun Ajaran 2024,Libur Semester
+2024-07-07,2024-07-08,Satu Muharam / Tahun Baru Hijriah,Event Akademik Umum
+2024-08-15,2024-09-05,Penerimaan Mahasiswa Baru & Awal Semester Ganjil TA 2024/2025,Penerimaan Mahasiswa Baru
+2024-08-17,2024-08-18,Hari Proklamasi Kemerdekaan R.I.,Event Akademik Umum
+2024-09-16,2024-09-17,Maulid Nabi Muhammad,Event Akademik Umum
+2024-10-20,2024-10-25,Periode Wisuda Kampus Periode Ganjil 2024,Wisuda
+2024-11-01,2024-11-02,Diwali,Event Akademik Umum
+2024-12-24,2024-12-25,Malam Natal,Event Akademik Umum
+2024-12-25,2024-12-26,Hari Raya Natal,Event Akademik Umum
+2024-12-26,2024-12-27,Cuti Bersama Natal (Hari Tinju),Event Akademik Umum
+2024-12-31,2025-01-01,Malam Tahun Baru,Event Akademik Umum
+2025-01-01,2025-01-02,Hari Tahun Baru,Event Akademik Umum
+2025-01-10,2025-02-05,Libur Semester Ganjil & Pengisian KRS Genap 2025,Libur Semester
+2025-01-27,2025-01-28,Isra Mikraj Nabi Muhammad,Event Akademik Umum
+2025-01-28,2025-01-29,Cuti Bersama Tahun Baru Imlek,Event Akademik Umum
+2025-01-29,2025-01-30,Tahun Baru Imlek,Event Akademik Umum
+2025-03-01,2025-03-02,1 Ramadan,Event Akademik Umum
+2025-03-28,2025-03-29,Cuti Bersama Hari Suci Nyepi (Tahun Baru Saka),Event Akademik Umum
+2025-03-29,2025-03-30,Hari Suci Nyepi (Tahun Baru Saka),Event Akademik Umum
+2025-03-31,2025-04-01,Hari Idul Fitri,Event Akademik Umum
+2025-04-01,2025-04-02,Hari Idul Fitri,Event Akademik Umum
+2025-04-02,2025-04-03,Cuti Bersama Idul Fitri,Event Akademik Umum
+2025-04-03,2025-04-04,Cuti Bersama Idul Fitri,Event Akademik Umum
+2025-04-04,2025-04-05,Cuti Bersama Idul Fitri,Event Akademik Umum
+2025-04-07,2025-04-08,Cuti Bersama Idul Fitri,Event Akademik Umum
+2025-04-18,2025-04-19,Wafat Isa Almasih,Event Akademik Umum
+2025-04-20,2025-04-21,Hari Paskah,Event Akademik Umum
+2025-05-01,2025-05-02,Hari Buruh Internasional / Pekerja,Event Akademik Umum
+2025-05-12,2025-05-13,Hari Raya Waisak,Event Akademik Umum
+2025-05-13,2025-05-14,Cuti Bersama Waisak,Event Akademik Umum
+2025-05-15,2025-05-20,Periode Wisuda Kampus Periode Genap 2025,Wisuda
+2025-05-29,2025-05-30,Kenaikan Isa Al Masih,Event Akademik Umum
+2025-05-30,2025-05-31,Cuti Bersama Kenaikan Isa Al Masih,Event Akademik Umum
+2025-06-01,2025-06-02,Hari Lahir Pancasila,Event Akademik Umum
+2025-06-06,2025-06-07,Idul Adha (Lebaran Haji),Event Akademik Umum
+2025-06-09,2025-06-10,Idul Adha (Lebaran Haji),Event Akademik Umum
+2025-06-27,2025-06-28,Satu Muharam / Tahun Baru Hijriah,Event Akademik Umum
+2025-07-01,2025-08-10,Libur Panjang Akhir Tahun Ajaran 2025,Libur Semester
+2025-08-15,2025-09-05,Penerimaan Mahasiswa Baru & Awal Semester Ganjil TA 2025/2026,Penerimaan Mahasiswa Baru
+2025-08-17,2025-08-18,Hari Proklamasi Kemerdekaan R.I.,Event Akademik Umum
+2025-08-18,2025-08-19,Hari Proklamasi Kemerdekaan R.I. observed,Event Akademik Umum
+2025-09-05,2025-09-06,Maulid Nabi Muhammad,Event Akademik Umum
+2025-10-20,2025-10-25,Periode Wisuda Kampus Periode Ganjil 2025,Wisuda
+2025-10-21,2025-10-22,Diwali,Event Akademik Umum
+2025-12-24,2025-12-25,Malam Natal,Event Akademik Umum
+2025-12-25,2025-12-26,Hari Raya Natal,Event Akademik Umum
+2025-12-26,2025-12-27,Cuti Bersama Natal (Hari Tinju),Event Akademik Umum
+2025-12-31,2026-01-01,Malam Tahun Baru,Event Akademik Umum
+2026-01-01,2026-01-02,Hari Tahun Baru,Event Akademik Umum
+2026-01-10,2026-02-05,Libur Semester Ganjil & Pengisian KRS Genap 2026,Libur Semester
+2026-01-16,2026-01-17,Isra Mikraj Nabi Muhammad,Event Akademik Umum
+2026-02-16,2026-02-17,Cuti Bersama Tahun Baru Imlek,Event Akademik Umum
+2026-02-17,2026-02-18,Tahun Baru Imlek,Event Akademik Umum
+2026-02-19,2026-02-20,1 Ramadan,Event Akademik Umum
+2026-03-18,2026-03-19,Cuti Bersama Hari Suci Nyepi (Tahun Baru Saka),Event Akademik Umum
+2026-03-19,2026-03-20,Hari Suci Nyepi (Tahun Baru Saka),Event Akademik Umum
+2026-03-20,2026-03-21,Cuti Bersama Idul Fitri,Event Akademik Umum
+2026-03-21,2026-03-22,Hari Idul Fitri,Event Akademik Umum
+2026-03-22,2026-03-23,Hari Idul Fitri,Event Akademik Umum
+2026-03-23,2026-03-24,Cuti Bersama Idul Fitri,Event Akademik Umum
+2026-03-24,2026-03-25,Cuti Bersama Idul Fitri,Event Akademik Umum
+2026-04-03,2026-04-04,Wafat Isa Almasih,Event Akademik Umum
+2026-04-05,2026-04-06,Hari Paskah,Event Akademik Umum
+2026-05-01,2026-05-02,Hari Buruh Internasional / Pekerja,Event Akademik Umum
+2026-05-14,2026-05-15,Kenaikan Isa Al Masih,Event Akademik Umum
+2026-05-15,2026-05-20,Periode Wisuda Kampus Periode Genap 2026,Wisuda
+2026-05-15,2026-05-16,Cuti Bersama Kenaikan Isa Al Masih,Event Akademik Umum
+2026-05-27,2026-05-28,Idul Adha (Lebaran Haji),Event Akademik Umum
+2026-05-28,2026-05-29,Idul Adha (Lebaran Haji),Event Akademik Umum
+2026-05-31,2026-06-01,Hari Raya Waisak,Event Akademik Umum
+2026-06-01,2026-06-02,Hari Lahir Pancasila,Event Akademik Umum
+2026-06-16,2026-06-17,Hari Kedua Muharram,Event Akademik Umum
+2026-06-17,2026-06-18,Satu Muharam / Tahun Baru Hijriah,Event Akademik Umum
+2026-07-01,2026-08-10,Libur Panjang Akhir Tahun Ajaran 2026,Libur Semester
+2026-08-15,2026-09-05,Penerimaan Mahasiswa Baru & Awal Semester Ganjil TA 2026/2027,Penerimaan Mahasiswa Baru
+2026-08-17,2026-08-18,Hari Proklamasi Kemerdekaan R.I.,Event Akademik Umum
+2026-08-25,2026-08-26,Maulid Nabi Muhammad,Event Akademik Umum
+2026-10-20,2026-10-25,Periode Wisuda Kampus Periode Ganjil 2026,Wisuda
+2026-12-24,2026-12-25,Cuti Bersama Natal (Malam Natal),Event Akademik Umum
+2026-12-25,2026-12-26,Hari Raya Natal,Event Akademik Umum
+2026-12-31,2027-01-01,Malam Tahun Baru,Event Akademik Umum
+2027-01-01,2027-01-02,Hari Tahun Baru,Event Akademik Umum
+2027-01-05,2027-01-06,Isra Mikraj Nabi Muhammad (belum pasti),Event Akademik Umum
+2027-02-05,2027-02-06,Cuti Bersama Tahun Baru Imlek,Event Akademik Umum
+2027-02-06,2027-02-07,Tahun Baru Imlek,Event Akademik Umum
+2027-02-09,2027-02-10,1 Ramadan (belum pasti),Event Akademik Umum
+2027-03-08,2027-03-09,Hari Suci Nyepi (Tahun Baru Saka),Event Akademik Umum
+2027-03-09,2027-03-10,Cuti Bersama Idul Fitri,Event Akademik Umum
+2027-03-10,2027-03-11,Hari Idul Fitri (belum pasti),Event Akademik Umum
+2027-03-11,2027-03-12,Hari Idul Fitri (belum pasti),Event Akademik Umum
+2027-03-12,2027-03-13,Cuti Bersama Idul Fitri,Event Akademik Umum
+2027-03-15,2027-03-16,Cuti Bersama Idul Fitri,Event Akademik Umum
+2027-03-25,2027-03-26,Joint Holiday for Good Friday,Event Akademik Umum
+2027-03-26,2027-03-27,Wafat Isa Almasih,Event Akademik Umum
+2027-03-28,2027-03-29,Hari Paskah,Event Akademik Umum
+2027-05-01,2027-05-02,Hari Buruh Internasional / Pekerja,Event Akademik Umum
+2027-05-06,2027-05-07,Kenaikan Isa Al Masih,Event Akademik Umum
+2027-05-17,2027-05-18,Idul Adha (Lebaran Haji) (belum pasti),Event Akademik Umum
+2027-05-18,2027-05-19,Idul Adha (Lebaran Haji),Event Akademik Umum
+2027-05-19,2027-05-20,Cuti Bersama Waisak,Event Akademik Umum
+2027-05-20,2027-05-21,Hari Raya Waisak,Event Akademik Umum
+2027-06-01,2027-06-02,Hari Lahir Pancasila,Event Akademik Umum
+2027-06-06,2027-06-07,Satu Muharam / Tahun Baru Hijriah (belum pasti),Event Akademik Umum
+2027-08-15,2027-08-16,Maulid Nabi Muhammad (belum pasti),Event Akademik Umum
+2027-08-17,2027-08-18,Hari Proklamasi Kemerdekaan R.I.,Event Akademik Umum
+2027-12-24,2027-12-25,Cuti Bersama Natal (Malam Natal),Event Akademik Umum
+2027-12-25,2027-12-26,Hari Raya Natal,Event Akademik Umum
+2027-12-31,2028-01-01,Malam Tahun Baru,Event Akademik Umum

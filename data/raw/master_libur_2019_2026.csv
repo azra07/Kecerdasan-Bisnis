@@ -1,0 +1,135 @@
+holiday_date,holiday_name,is_national_holiday
+2019-01-01,Tahun Baru Masehi,True
+2019-02-05,Tahun Baru Imlek,True
+2019-03-07,Hari Suci Nyepi,True
+2019-04-03,Isra Mi'raj Nabi Muhammad SAW,True
+2019-04-17,General Election Day,True
+2019-04-19,Wafat Isa Al-Masih / Jumat Agung,True
+2019-05-01,International Labor Day,True
+2019-05-19,Hari Raya Waisak,True
+2019-05-30,Kenaikan Isa Al-Masih,True
+2019-06-01,Hari Lahir Pancasila,True
+2019-06-05,Hari Raya Idul Fitri,True
+2019-06-06,Eid al-Fitr Second Day,True
+2019-08-11,Hari Raya Idul Adha,True
+2019-08-17,Hari Kemerdekaan RI,True
+2019-09-01,Tahun Baru Islam,True
+2019-11-09,Maulid Nabi Muhammad SAW,True
+2019-12-25,Hari Raya Natal,True
+2020-01-01,Tahun Baru Masehi,True
+2020-01-25,Tahun Baru Imlek,True
+2020-03-22,Isra Mi'raj Nabi Muhammad SAW,True
+2020-03-25,Hari Suci Nyepi,True
+2020-04-10,Wafat Isa Al-Masih / Jumat Agung,True
+2020-05-01,International Labor Day,True
+2020-05-07,Hari Raya Waisak,True
+2020-05-21,Kenaikan Isa Al-Masih,True
+2020-05-24,Hari Raya Idul Fitri,True
+2020-05-25,Eid al-Fitr Second Day,True
+2020-06-01,Hari Lahir Pancasila,True
+2020-07-31,Hari Raya Idul Adha,True
+2020-08-17,Hari Kemerdekaan RI,True
+2020-08-20,Tahun Baru Islam,True
+2020-10-29,Maulid Nabi Muhammad SAW,True
+2020-12-09,Local Election Day,True
+2020-12-25,Hari Raya Natal,True
+2021-01-01,Tahun Baru Masehi,True
+2021-02-12,Tahun Baru Imlek,True
+2021-03-11,Isra Mi'raj Nabi Muhammad SAW,True
+2021-03-14,Hari Suci Nyepi,True
+2021-04-02,Wafat Isa Al-Masih / Jumat Agung,True
+2021-05-01,International Labor Day,True
+2021-05-13,Ascension Day; Eid al-Fitr,True
+2021-05-14,Eid al-Fitr Second Day,True
+2021-05-26,Hari Raya Waisak,True
+2021-06-01,Hari Lahir Pancasila,True
+2021-07-20,Hari Raya Idul Adha,True
+2021-08-11,Tahun Baru Islam,True
+2021-08-17,Hari Kemerdekaan RI,True
+2021-10-20,Maulid Nabi Muhammad SAW,True
+2021-12-25,Hari Raya Natal,True
+2022-01-01,Tahun Baru Masehi,True
+2022-02-01,Tahun Baru Imlek,True
+2022-02-28,Isra Mi'raj Nabi Muhammad SAW,True
+2022-03-03,Hari Suci Nyepi,True
+2022-04-15,Wafat Isa Al-Masih / Jumat Agung,True
+2022-05-01,International Labor Day,True
+2022-05-02,Hari Raya Idul Fitri,True
+2022-05-03,Eid al-Fitr Second Day,True
+2022-05-16,Hari Raya Waisak,True
+2022-05-26,Kenaikan Isa Al-Masih,True
+2022-06-01,Hari Lahir Pancasila,True
+2022-07-10,Hari Raya Idul Adha,True
+2022-07-30,Tahun Baru Islam,True
+2022-08-17,Hari Kemerdekaan RI,True
+2022-10-08,Maulid Nabi Muhammad SAW,True
+2022-12-25,Hari Raya Natal,True
+2023-01-01,Tahun Baru Masehi,True
+2023-01-22,Tahun Baru Imlek,True
+2023-02-18,Isra Mi'raj Nabi Muhammad SAW,True
+2023-03-22,Hari Suci Nyepi,True
+2023-04-07,Wafat Isa Al-Masih / Jumat Agung,True
+2023-04-22,Hari Raya Idul Fitri,True
+2023-04-23,Eid al-Fitr Second Day,True
+2023-05-01,International Labor Day,True
+2023-05-18,Kenaikan Isa Al-Masih,True
+2023-06-01,Hari Lahir Pancasila,True
+2023-06-04,Hari Raya Waisak,True
+2023-06-29,Hari Raya Idul Adha,True
+2023-07-19,Tahun Baru Islam,True
+2023-08-17,Hari Kemerdekaan RI,True
+2023-09-28,Maulid Nabi Muhammad SAW,True
+2023-12-25,Hari Raya Natal,True
+2024-01-01,Tahun Baru Masehi,True
+2024-02-08,Isra Mi'raj Nabi Muhammad SAW,True
+2024-02-10,Tahun Baru Imlek,True
+2024-02-14,General Election Day,True
+2024-03-11,Hari Suci Nyepi,True
+2024-03-29,Wafat Isa Al-Masih / Jumat Agung,True
+2024-03-31,Easter Sunday,True
+2024-04-10,Hari Raya Idul Fitri,True
+2024-04-11,Eid al-Fitr Second Day,True
+2024-05-01,International Labor Day,True
+2024-05-09,Kenaikan Isa Al-Masih,True
+2024-05-23,Hari Raya Waisak,True
+2024-06-01,Hari Lahir Pancasila,True
+2024-06-17,Hari Raya Idul Adha,True
+2024-07-07,Tahun Baru Islam,True
+2024-08-17,Hari Kemerdekaan RI,True
+2024-09-16,Maulid Nabi Muhammad SAW,True
+2024-11-27,Local Election Day,True
+2024-12-25,Hari Raya Natal,True
+2025-01-01,Tahun Baru Masehi,True
+2025-01-27,Isra Mi'raj Nabi Muhammad SAW,True
+2025-01-29,Tahun Baru Imlek,True
+2025-03-29,Hari Suci Nyepi,True
+2025-03-31,Hari Raya Idul Fitri,True
+2025-04-01,Eid al-Fitr Second Day,True
+2025-04-18,Wafat Isa Al-Masih / Jumat Agung,True
+2025-04-20,Easter Sunday,True
+2025-05-01,International Labor Day,True
+2025-05-12,Hari Raya Waisak,True
+2025-05-29,Kenaikan Isa Al-Masih,True
+2025-06-01,Hari Lahir Pancasila,True
+2025-06-06,Hari Raya Idul Adha,True
+2025-06-27,Tahun Baru Islam,True
+2025-08-17,Hari Kemerdekaan RI,True
+2025-09-05,Maulid Nabi Muhammad SAW,True
+2025-12-25,Hari Raya Natal,True
+2026-01-01,Tahun Baru Masehi,True
+2026-01-16,Isra Mi'raj Nabi Muhammad SAW,True
+2026-02-17,Tahun Baru Imlek,True
+2026-03-19,Hari Suci Nyepi,True
+2026-03-21,Hari Raya Idul Fitri,True
+2026-03-22,Eid al-Fitr Second Day,True
+2026-04-03,Wafat Isa Al-Masih / Jumat Agung,True
+2026-04-05,Easter Sunday,True
+2026-05-01,International Labor Day,True
+2026-05-14,Kenaikan Isa Al-Masih,True
+2026-05-27,Hari Raya Idul Adha,True
+2026-05-31,Hari Raya Waisak,True
+2026-06-01,Hari Lahir Pancasila,True
+2026-06-16,Tahun Baru Islam,True
+2026-08-17,Hari Kemerdekaan RI,True
+2026-08-25,Maulid Nabi Muhammad SAW,True
+2026-12-25,Hari Raya Natal,True

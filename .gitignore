@@ -20,3 +20,11 @@ minio_data/
 # Sistem
 .DS_Store
 Thumbs.db
+
+
+
+# Data lake: jangan upload data asli
+*.xlsx
+datalake/raw/*/
+datalake/staging/*/
+datalake/curated/*/
