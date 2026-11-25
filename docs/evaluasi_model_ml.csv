@@ -1,0 +1,4 @@
+Model,MAE (Kamar),RMSE (Kamar),R2 Score,MAPE (%)
+1. Linear Regression (Baseline),0.47,0.88,0.8738,2.56
+2. Random Forest Regressor,0.61,0.94,0.8584,3.32
+3. XGBoost Regressor (Challenger),0.63,0.94,0.8585,3.39
